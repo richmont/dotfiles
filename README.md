@@ -1,6 +1,10 @@
 # dotfiles
 Arquivos de configuração usados por mim
 
+![resultado](https://raw.githubusercontent.com/richmont/dotfiles/master/terminal.png)
+
+
+
 ## Termite
 Tema [Monokai](https://github.com/khamer/base16-termite/blob/master/themes/base16-monokai.config)  
 Fonte [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)  
@@ -12,3 +16,4 @@ Fonte [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 [Tpm](https://github.com/tmux-plugins/tpm)  
 ## Shell
 [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
