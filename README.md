@@ -3,17 +3,29 @@ Arquivos de configuração usados por mim
 
 ![resultado](https://raw.githubusercontent.com/richmont/dotfiles/master/terminal.png)
 
+# Pacotes
+Gerar lista com todos os pacotes instalados:  
+```bash
+pacman -Qqe > lista_pacotes_todos.txt
+```
+Pacotes instalados diretamente:
+```bash
+pacman -Qq > lista_pacotes.txt
+```
+Para reinstalar em um sistema novo:
+```bash
+pacman -S < lista_pacotes.txt
+```
+[Fonte](https://superuser.com/questions/1061612/how-do-you-make-a-list-file-for-pacman-to-install-from)
 
-
-## Termite
-Tema [Monokai](https://github.com/khamer/base16-termite/blob/master/themes/base16-monokai.config)  
-Fonte [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)  
-
-## Tmux plugins
-[Tmux-online-status](https://github.com/tmux-plugins/tmux-online-status)  
-[Tmux-plugin-spotify](https://github.com/pwittchen/tmux-plugin-spotify)  
-[Tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar)  
-[Tpm](https://github.com/tmux-plugins/tpm)  
-## Shell
-[Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+# Terminal
+## Alacritty
+```bash
+pacman -S alacritty
+```
+Tema: [Monokai](https://github.com/rockiedo/monokai-pro-alacritty)  
+Fonte: Adobe Source Code Pro [Github](https://github.com/adobe-fonts/source-code-pro)
+```bash
+pacman -S adobe-source-code-pro-fonts
+```
 
