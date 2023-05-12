@@ -42,6 +42,7 @@ ca-certificates-mozilla
 ca-certificates-utils
 cairo
 cairomm
+cairomm-1.16
 cantarell-fonts
 clamav
 code
@@ -56,6 +57,7 @@ dbus
 dbus-glib
 dbus-python
 dconf
+ddcutil
 debugedit
 default-cursors
 desktop-file-utils
@@ -135,6 +137,7 @@ gperf
 gperftools
 gpgme
 gpm
+graphene
 graphite
 grep
 groff
@@ -148,6 +151,8 @@ gstreamer
 gtk-update-icon-cache
 gtk2
 gtk3
+gtk4
+gtkmm-4.0
 gtkmm3
 gtksourceview4
 guile
@@ -156,6 +161,7 @@ gupnp-igd
 gzip
 harfbuzz
 harfbuzz-icu
+helvum
 hexchat
 hicolor-icon-theme
 hidapi
@@ -166,10 +172,12 @@ hunspell
 hwdata
 hwloc
 hyphen
+i2c-tools
 iana-etc
 ibus
 icu
 imath
+imlib2
 inetutils
 intel-ucode
 iproute2
@@ -258,6 +266,7 @@ libasyncns
 libavc1394
 libavif
 libb2
+libb64
 libbluray
 libbpf
 libbs2b
@@ -276,6 +285,7 @@ libdbusmenu-gtk3
 libdca
 libde265
 libdecor
+libdeflate
 libdispatch
 libdrm
 libdvbpsi
@@ -332,6 +342,7 @@ libmpdclient
 libmpeg2
 libmspack
 libmysofa
+libnatpmp
 libndp
 libnet
 libnetfilter_conntrack
@@ -449,6 +460,7 @@ linux-api-headers
 linux-firmware
 linux-firmware-qlogic
 linux-firmware-whence
+linux-zen
 llvm-libs
 lm_sensors
 lrzip
@@ -469,6 +481,7 @@ md4c
 mesa
 mesa-utils
 meson
+miniupnpc
 minizip
 mkinitcpio
 mkinitcpio-busybox
@@ -493,8 +506,10 @@ nss
 ntfs-3g
 ntp
 nuget
+obmenu3
 ocl-icd
 openal
+openbox
 opencore-amr
 openexr
 openjpeg2
@@ -517,6 +532,7 @@ pam
 pambase
 pango
 pangomm
+pangomm-2.48
 papirus-icon-theme
 parted
 patch
@@ -531,6 +547,7 @@ perl-mailtools
 perl-timedate
 pinentry
 pipewire
+pipewire-alsa
 pipewire-audio
 pipewire-pulse
 pixman
@@ -554,6 +571,7 @@ python-packaging
 python-pip
 python-ply
 python-pycparser
+python-pyxdg
 python-tqdm
 python-typing_extensions
 python-wheel
@@ -614,6 +632,8 @@ tinycompress
 tmux
 tpm2-tss
 tracker3
+transmission-gtk
+tree
 tslib
 ttf-droid
 ttf-liberation

@@ -9,6 +9,7 @@ base-devel
 clamav
 code
 cpio
+ddcutil
 dotnet-runtime
 eclipse-jee
 edid-decode-git
@@ -22,6 +23,7 @@ git-credential-manager-core
 git-credential-manager-core-extras
 gparted
 grub
+helvum
 hexchat
 htop
 ibus
@@ -34,6 +36,7 @@ lightdm-gtk-greeter
 linux
 linux-firmware
 linux-firmware-qlogic
+linux-zen
 lrzip
 lzip
 lzop
@@ -47,6 +50,8 @@ networkmanager
 ntfs-3g
 ntp
 nuget
+obmenu3
+openbox
 openttd
 openttd-opengfx
 openttd-opensfx
@@ -54,11 +59,13 @@ os-prober
 p7zip
 papirus-icon-theme
 pavucontrol
+pipewire-alsa
 pipewire-pulse
 plocate
 polybar
 python
 python-pip
+python-pyxdg
 reflector
 ristretto
 steam
@@ -69,6 +76,8 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 tmux
+transmission-gtk
+tree
 ttf-droid
 ttf-liberation
 unarj
