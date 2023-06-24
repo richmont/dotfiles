@@ -263,6 +263,13 @@
     <command>thunar</command>
   </action>
 </keybind>
+
+<!-- Atalho para iniciar captura de tela -->
+<keybind key="Print">
+  <action name="Execute">
+    <command>xfce4-screenshooter</command>
+  </action>
+</keybind>
 </keyboard>
 
 
